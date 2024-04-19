@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\Евгений\source\repos\Lab 8\Lab 8\main.cpp(413,35): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Lab 8.vcxproj -> C:\Users\Евгений\source\repos\Lab 8\x64\Debug\Lab 8.exe
